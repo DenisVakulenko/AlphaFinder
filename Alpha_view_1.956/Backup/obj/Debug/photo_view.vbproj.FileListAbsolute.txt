@@ -1,0 +1,13 @@
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.frmTempArea.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.ucCheckBox.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.ucDirsBox.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.frmMain.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.ucFilesBox.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.ucFilesFilter.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.ucImagedButton.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.ucImagesBox.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.ucPathLine.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.ucScrollBar.resources
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Documents\Alpha_view_1.955_test_11\Backup\obj\Debug\photo_view.Resources.resources

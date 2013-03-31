@@ -1,0 +1,198 @@
+<!doctype html>
+<html>
+<head>
+<Title> </Title>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8" />
+<META http-equiv=Content-Language content=en-us>
+<META name="robots" content="INDEX,FOLLOW" >
+ <style type="text/css">
+	body {
+	background-color:#0472bc;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	FONT-FAMILY:  verdana, arial,  helvetica;
+   }
+   .main {
+	 margin: auto;
+   background-color: #ffffff; 
+	 width: 960px;
+	 overflow: auto;
+   }
+    .content {
+    margin: auto;
+    overflow: auto;
+   	background-color: #ffffff;
+    text-align:left; 
+    width: 940px;
+    padding: 10px 10px 10px 10px;
+     line-height:20px;
+
+   }
+   .top {
+	    background-color: #ffffff;
+	    width: 960px;
+	    margin:auto;
+	  	height:100px;
+		   }
+   .ads_728 {
+	background-color:#ffcc00;
+	width: 946px;
+	/*height:100px;*/
+	text-align:center;
+	margin:auto;
+	padding:7px;
+
+	    }
+	.navigate {
+    background-color:#ffcc00; 
+    width: 950px;
+   	text-align:left; 
+	  padding:5px;
+	  	margin:auto;
+	
+	}
+	.bottom {
+    margin: auto;
+    overflow: auto;
+	background-color:#ffcc00;
+	width:940px;
+	padding: 10px;    
+	}
+    H1 {
+	FONT-SIZE: 15px;
+	color:#ffffff;
+	width: 930px;
+	margin:0 auto; 
+	background-color:#ffcc00;
+	text-align:left; 
+	padding:0px 15px 5px 15px;
+}
+   .logo {
+	 width:96px;
+   height:30px;
+   float:left;}
+     .list {
+		 height: 60px;
+		 text-align:center;
+		 width: 960px;
+		 background-color: #abab81;
+		 float:left;
+		 padding-top:10px;
+		
+	 }
+                  </style>
+</head>
+<body>
+<div class="top">
+<div class="logo"><img src="http://www.lyrics007.com/images/logo.gif"></div>
+<div class="list"><FORM action="http://www.lyrics007.com/search.php" method=submit>
+<INPUT maxLength=65 size=65 name=q value=" ">&nbsp;&nbsp;Turbo<input type="checkbox" name="text" value=1  />&nbsp;&nbsp;<INPUT type=submit value=go name=submit>
+            </FORM><br><FONT size=1><STRONG>Artists
+            A to Z: </STRONG></FONT><A href="lyrics/0-9.html"><strong>#</strong></A>
+            <A href="lyrics/a.html"><strong>A</strong></A> <A
+            href="lyrics/b.html"><strong>B</strong></A> <A
+            href="lyrics/c.html"><strong>C</strong></A> <A
+            href="lyrics/d.html"><strong>D</strong></A> <A
+            href="lyrics/e.html"><strong>E</strong></A> <A
+            href="lyrics/f.html"><strong>F</strong></A> <A
+            href="lyrics/g.html"><strong>G</strong></A> <A
+            href="lyrics/h.html"><strong>H</strong></A> <A
+            href="lyrics/i.html"><strong>I</strong></A> <A
+            href="lyrics/j.html"><strong>J</strong></A> <A
+            href="lyrics/k.html"><strong>K</strong></A> <A
+            href="lyrics/l.html"><strong>L</strong></A> <A
+            href="lyrics/m.html"><strong>M</strong></A> <A
+            href="lyrics/n.html"><strong>N</strong></A> <A
+            href="lyrics/o.html"><strong>O</strong></A> <A
+            href="lyrics/p.html"><strong>P</strong></A> <A
+            href="lyrics/q.html"><strong>Q</strong></A> <A
+            href="lyrics/r.html"><strong>R</strong></A> <A
+            href="lyrics/s.html"><strong>S</strong></A> <A
+            href="lyrics/t.html"><strong>T</strong></A> <A
+            href="lyrics/u.html"><strong>U</strong></A> <A
+            href="lyrics/v.html"><strong>V</strong></A> <A
+            href="lyrics/w.html"><strong>W</strong></A> <A
+            href="lyrics/x.html"><strong>X</strong></A> <A
+            href="lyrics/y.html"><strong>Y</strong></A> <A
+            href="lyrics/z.html"><strong>Z</strong></A></div>
+</div>
+<div class="ads_728">
+ <script type="text/javascript">
+/* 007 - 728x90 - Top - Brand Ads only */
+cf_page_artist = "Lyrics";
+cf_page_song = "Lyrics";
+cf_adunit_id = "39380715";
+</script>
+<script type="text/javascript" src="http://srv.clickfuse.com/showads/showad.php"></script>
+</div>
+<div class="navigate"><a href="http://www.lyrics007.com">Home</a></div>
+<div class="content">
+<div style="float:left;width:760px;">
+<div  style="display:block;float:left;padding-left:0px;padding-right:40px;">
+	<font size=5 color=red><strong>sponsored links</strong></font><br>
+ 	<script>
+/* Lyrics007 - 300x250 - Brand Ads Only */
+cf_page_artist = "";
+cf_page_song = "";
+cf_page_genre = "";
+cf_adunit_id = "39380905";
+</script>
+<script src="//srv.clickfuse.com/showads/showad.php"></script></div>
+<pre class="results">No Results for ' '. Please shorten your keywords and try again.
+</div>
+<div style="float:right;width:160px">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0919305250342516";
+/* 160x600, created 11/20/08 */
+google_ad_slot = "0301874998";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</div>  
+	 <div class="bottom"> &nbsp;&nbsp;About Us - <a href="dmca.html"> DMCA</a> - Help - <a href="privacy.html">Privacy Policy</a> - Contact Us <br>&nbsp;&copy;CopyRight 2011, LYRICS007.COM, Inc. All Rights Reserved</div> 
+
+  </body>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+// Note: it's important to keep these in separate script blocks
+COMSCORE.beacon({
+	c1: 2,
+	c2: "6772046",
+	c3: "",
+	c4: "http://www.lyrics007.com/search.php", // Replace this with the page URL that the site is on here, and also enter it into the <noscript> img below
+	c5: "",
+	c6: "",
+	c15: ""
+});
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6772046&c3=&c4=www.lyrics007.com/Lyrics.html&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6246289-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</html>

@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D28597A0-73D8-48F9-9C27-618652590F84}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>photo_view.My.MyApplication</StartupObject>
+    <RootNamespace>photo_view</RootNamespace>
+    <AssemblyName>photo_view</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <ManifestCertificateThumbprint>D5A5D87E543D271E6FF494486A6EE8D08E9FCEE2</ManifestCertificateThumbprint>
+    <ManifestKeyFile>photo_view_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>photo_view.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>photo_view.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classDirTags.vb" />
+    <Compile Include="classFileTags.vb" />
+    <Compile Include="frmTempArea.Designer.vb">
+      <DependentUpon>frmTempArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTempArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ucCheckBox.Designer.vb">
+      <DependentUpon>ucCheckBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucCheckBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucDirsBox.Designer.vb">
+      <DependentUpon>ucDirsBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucDirsBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="file_func.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowPhoto2.Designer.vb">
+      <DependentUpon>frmShowPhoto2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowPhoto2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mod_buttons.vb" />
+    <Compile Include="mod_graphics.vb" />
+    <Compile Include="ucFilesBox.Designer.vb">
+      <DependentUpon>ucFilesBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucFilesBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFilesFilter.Designer.vb">
+      <DependentUpon>ucFilesFilter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucFilesFilter.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucImagesBox.Designer.vb">
+      <DependentUpon>ucImagesBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucImagesBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPathLine.Designer.vb">
+      <DependentUpon>ucPathLine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucPathLine.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="thumbs.vb" />
+    <Compile Include="rotating.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ucImagedButton.Designer.vb">
+      <DependentUpon>ucImagedButton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucImagedButton.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucScrollBar.Designer.vb">
+      <DependentUpon>ucScrollBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucScrollBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="vars.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmTempArea.resx">
+      <DependentUpon>frmTempArea.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCheckBox.resx">
+      <DependentUpon>ucCheckBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucDirsBox.resx">
+      <DependentUpon>ucDirsBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowPhoto2.resx">
+      <DependentUpon>frmShowPhoto2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFilesBox.resx">
+      <DependentUpon>ucFilesBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFilesFilter.resx">
+      <DependentUpon>ucFilesFilter.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucImagedButton.resx">
+      <DependentUpon>ucImagedButton.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucImagesBox.resx">
+      <DependentUpon>ucImagesBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPathLine.resx">
+      <DependentUpon>ucPathLine.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucScrollBar.resx">
+      <DependentUpon>ucScrollBar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

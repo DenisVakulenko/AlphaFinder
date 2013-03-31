@@ -1,0 +1,398 @@
+K:\[ progs ]\_net\photo_view_1.2\bin\Release\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.2\bin\Release\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.2\bin\Release\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.2\obj\Release\ResolveAssemblyReference.cache
+K:\[ progs ]\_net\photo_view_1.2\obj\Release\photo_view.frmMain.resources
+K:\[ progs ]\_net\photo_view_1.2\obj\Release\photo_view.Resources.resources
+K:\[ progs ]\_net\photo_view_1.2\obj\Release\photo_view.vbproj.GenerateResource.Cache
+K:\[ progs ]\_net\photo_view_1.2\obj\Release\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.2\obj\Release\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.2\obj\Release\photo_view.pdb
+E:\[ progs ]\_net\photo_view_1.3\bin\Release\photo_view.exe
+E:\[ progs ]\_net\photo_view_1.3\bin\Release\photo_view.pdb
+E:\[ progs ]\_net\photo_view_1.3\bin\Release\photo_view.xml
+E:\[ progs ]\_net\photo_view_1.3\obj\Release\ResolveAssemblyReference.cache
+E:\[ progs ]\_net\photo_view_1.3\obj\Release\photo_view.frmMain.resources
+E:\[ progs ]\_net\photo_view_1.3\obj\Release\photo_view.Resources.resources
+E:\[ progs ]\_net\photo_view_1.3\obj\Release\photo_view.vbproj.GenerateResource.Cache
+E:\[ progs ]\_net\photo_view_1.3\obj\Release\photo_view.exe
+E:\[ progs ]\_net\photo_view_1.3\obj\Release\photo_view.xml
+E:\[ progs ]\_net\photo_view_1.3\obj\Release\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.4\bin\Release\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.4\bin\Release\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.4\bin\Release\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.4\obj\Release\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.4\obj\Release\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.4\obj\Release\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.4\obj\Release\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.4\obj\Release\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.4\obj\Release\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.4\obj\Release\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.4 - копия\bin\Release\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.4 - копия\bin\Release\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.4 - копия\bin\Release\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.4 - копия\bin\Release\photo_view.exe.manifest
+J:\[ progs ]\_net\photo_view_1.4 - копия\bin\Release\photo_view.application
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\photo_view.exe.manifest
+J:\[ progs ]\_net\photo_view_1.4 - копия\obj\Release\photo_view.application
+J:\[ progs ]\_net\photo_view_1.5\bin\Release\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.5\bin\Release\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.5\bin\Release\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.5\obj\Release\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.5\bin\Release\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.5\bin\Release\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.5\bin\Release\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.5\obj\Release\ResolveAssemblyReference.cache
+K:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.frmMain.resources
+K:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.Resources.resources
+K:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.vbproj.GenerateResource.Cache
+K:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.5\obj\Release\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.666\bin\Release\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.666\bin\Release\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.666\bin\Release\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.666\obj\Release\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.666\obj\Release\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.666\obj\Release\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.666\obj\Release\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.666\obj\Release\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.666\obj\Release\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.666\obj\Release\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.6666\bin\Release\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.6666\bin\Release\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.6666\bin\Release\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\ResolveAssemblyReference.cache
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.DirsBox.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.frmMain.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.frmShowPhoto2.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.Resources.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.PathLine.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.ButtonP.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.frmShowPhoto.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.vbproj.GenerateResource.Cache
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.pdb
+F:\[ progs ]\_net\photo_view_1.6666\bin\Release\photo_view.exe
+F:\[ progs ]\_net\photo_view_1.6666\bin\Release\photo_view.pdb
+F:\[ progs ]\_net\photo_view_1.6666\bin\Release\photo_view.xml
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\ResolveAssemblyReference.cache
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.frmMain.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.frmShowPhoto2.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.Resources.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.frmShowPhoto.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.vbproj.GenerateResource.Cache
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.exe
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.xml
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.pdb
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.ucPathLine.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Release\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.8\obj\Release\ResolveAssemblyReference.cache
+D:\Alpha_view_1.8\obj\Release\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.8\obj\Release\photo_view.frmMain.resources
+D:\Alpha_view_1.8\obj\Release\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.8\obj\Release\photo_view.Resources.resources
+D:\Alpha_view_1.8\obj\Release\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.8\obj\Release\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.8\obj\Release\photo_view.ucPathLine.resources
+D:\Alpha_view_1.8\obj\Release\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.8\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.8\obj\Release\photo_view.exe
+D:\Alpha_view_1.8\obj\Release\photo_view.xml
+D:\Alpha_view_1.8\obj\Release\photo_view.pdb
+D:\Alpha_view_1.8\bin\Release\photo_view.exe
+D:\Alpha_view_1.8\bin\Release\photo_view.pdb
+D:\Alpha_view_1.8\bin\Release\photo_view.xml
+D:\Alpha_view_1.9\obj\Release\ResolveAssemblyReference.cache
+D:\Alpha_view_1.9\obj\Release\photo_view.frmTempArea.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.frmMain.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.Resources.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.ucPathLine.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.9\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.91\obj\Release\ResolveAssemblyReference.cache
+D:\Alpha_view_1.91\obj\Release\photo_view.frmTempArea.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.frmMain.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.Resources.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.ucPathLine.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.91\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.91\bin\Release\photo_view.exe.manifest
+D:\Alpha_view_1.91\bin\Release\photo_view.application
+D:\Alpha_view_1.91\bin\Release\photo_view.exe
+D:\Alpha_view_1.91\bin\Release\photo_view.pdb
+D:\Alpha_view_1.91\bin\Release\photo_view.xml
+D:\Alpha_view_1.91\obj\Release\photo_view.exe.manifest
+D:\Alpha_view_1.91\obj\Release\photo_view.application
+D:\Alpha_view_1.91\obj\Release\photo_view.exe
+D:\Alpha_view_1.91\obj\Release\photo_view.xml
+D:\Alpha_view_1.91\obj\Release\photo_view.pdb
+D:\Alpha_view_1.915\bin\Release\photo_view.exe.manifest
+D:\Alpha_view_1.915\bin\Release\photo_view.application
+D:\Alpha_view_1.915\bin\Release\photo_view.exe
+D:\Alpha_view_1.915\bin\Release\photo_view.pdb
+D:\Alpha_view_1.915\bin\Release\photo_view.xml
+D:\Alpha_view_1.915\obj\Release\ResolveAssemblyReference.cache
+D:\Alpha_view_1.915\obj\Release\photo_view.frmTempArea.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.frmMain.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.Resources.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.ucPathLine.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.915\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.915\obj\Release\photo_view.exe.manifest
+D:\Alpha_view_1.915\obj\Release\photo_view.application
+D:\Alpha_view_1.915\obj\Release\photo_view.exe
+D:\Alpha_view_1.915\obj\Release\photo_view.xml
+D:\Alpha_view_1.915\obj\Release\photo_view.pdb
+D:\Alpha_view_1.925\bin\Release\photo_view.exe.manifest
+D:\Alpha_view_1.925\bin\Release\photo_view.application
+D:\Alpha_view_1.925\bin\Release\photo_view.exe
+D:\Alpha_view_1.925\bin\Release\photo_view.pdb
+D:\Alpha_view_1.925\bin\Release\photo_view.xml
+D:\Alpha_view_1.925\obj\Release\ResolveAssemblyReference.cache
+D:\Alpha_view_1.925\obj\Release\photo_view.frmTempArea.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.frmMain.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.Resources.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.ucFilesBox.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.ucPathLine.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.925\obj\Release\photo_view.exe.manifest
+D:\Alpha_view_1.925\obj\Release\photo_view.application
+D:\Alpha_view_1.925\obj\Release\photo_view.exe
+D:\Alpha_view_1.925\obj\Release\photo_view.xml
+D:\Alpha_view_1.925\obj\Release\photo_view.pdb
+D:\Alpha_view_1.925\obj\Release\photo_view.ucFilesFilter.resources
+D:\Alpha_view_1.925\obj\Release\photo_view.ucScrollBar.resources
+D:\Alpha_view_1.935\obj\Release\ResolveAssemblyReference.cache
+D:\Alpha_view_1.935\obj\Release\photo_view.frmTempArea.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.ucCheckBox.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.frmMain.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.Resources.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.ucFilesBox.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.ucFilesFilter.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.ucPathLine.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.ucScrollBar.resources
+D:\Alpha_view_1.935\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.935\obj\Release\photo_view.exe
+D:\Alpha_view_1.935\obj\Release\photo_view.xml
+D:\Alpha_view_1.935\obj\Release\photo_view.pdb
+D:\Alpha_view_1.935\bin\Release\photo_view.exe.manifest
+D:\Alpha_view_1.935\bin\Release\photo_view.application
+D:\Alpha_view_1.935\bin\Release\photo_view.exe
+D:\Alpha_view_1.935\bin\Release\photo_view.pdb
+D:\Alpha_view_1.935\bin\Release\photo_view.xml
+D:\Alpha_view_1.935\obj\Release\photo_view.exe.manifest
+D:\Alpha_view_1.935\obj\Release\photo_view.application
+D:\_Programms\Alpha_view_1.935\bin\Release\photo_view.exe.manifest
+D:\_Programms\Alpha_view_1.935\bin\Release\photo_view.application
+D:\_Programms\Alpha_view_1.935\bin\Release\photo_view.exe
+D:\_Programms\Alpha_view_1.935\bin\Release\photo_view.pdb
+D:\_Programms\Alpha_view_1.935\bin\Release\photo_view.xml
+D:\_Programms\Alpha_view_1.935\obj\Release\ResolveAssemblyReference.cache
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.frmTempArea.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.ucCheckBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.ucDirsBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.frmMain.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.frmShowPhoto2.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.Resources.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.ucFilesBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.ucFilesFilter.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.ucImagedButton.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.ucImagesBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.ucPathLine.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.ucScrollBar.resources
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.exe.manifest
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.application
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.exe
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.xml
+D:\_Programms\Alpha_view_1.935\obj\Release\photo_view.pdb
+D:\_Programms\Alpha_view_1.945\obj\Release\ResolveAssemblyReference.cache
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.frmTempArea.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.ucCheckBox.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.ucDirsBox.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.frmMain.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.frmShowPhoto2.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.Resources.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.ucFilesBox.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.ucFilesFilter.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.ucImagedButton.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.ucImagesBox.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.ucPathLine.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.ucScrollBar.resources
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.exe
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.xml
+D:\_Programms\Alpha_view_1.945\obj\Release\photo_view.pdb
+C:\Documents\Alpha_view_1.945\bin\Release\photo_view.exe.manifest
+C:\Documents\Alpha_view_1.945\bin\Release\photo_view.application
+C:\Documents\Alpha_view_1.945\bin\Release\photo_view.exe
+C:\Documents\Alpha_view_1.945\bin\Release\photo_view.pdb
+C:\Documents\Alpha_view_1.945\bin\Release\photo_view.xml
+C:\Documents\Alpha_view_1.945\obj\Release\ResolveAssemblyReference.cache
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.frmTempArea.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucCheckBox.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucDirsBox.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.frmMain.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.frmShowPhoto2.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.Resources.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucFilesBox.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucFilesFilter.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucImagedButton.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucImagesBox.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucPathLine.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucScrollBar.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.ucSkinButton.resources
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.vbproj.GenerateResource.Cache
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.exe.manifest
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.application
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.exe
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.xml
+C:\Documents\Alpha_view_1.945\obj\Release\photo_view.pdb
+C:\Documents\Alpha_view_1.955\bin\Release\photo_view.exe.manifest
+C:\Documents\Alpha_view_1.955\bin\Release\photo_view.application
+C:\Documents\Alpha_view_1.955\bin\Release\photo_view.exe
+C:\Documents\Alpha_view_1.955\bin\Release\photo_view.pdb
+C:\Documents\Alpha_view_1.955\bin\Release\photo_view.xml
+C:\Documents\Alpha_view_1.955\obj\Release\ResolveAssemblyReference.cache
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.frmTempArea.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucCheckBox.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucDirsBox.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.frmMain.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.frmShowPhoto2.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.Resources.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucFilesBox.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucFilesFilter.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucImagedButton.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucImagesBox.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucPathLine.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucScrollBar.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucSkinButton.resources
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.vbproj.GenerateResource.Cache
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.exe.manifest
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.application
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.exe
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.xml
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.pdb
+C:\Documents\Alpha_view_1.955\bin\Release\ViewHelpers.dll
+C:\Documents\Alpha_view_1.955\bin\Release\ViewHelpers.pdb
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.frmMusicPlayer.resources
+C:\Documents\Alpha_view_1.955\obj\Release\Interop.WMPLib.dll
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.vbproj.ResolveComReference.cache
+C:\Documents\Alpha_view_1.955\obj\Release\photo_view.ucMusicBox.resources
+C:\Documents\Alpha_view_1.955\bin\Release\Interop.WMPLib.dll
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\Interop.WMPLib.dll
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.vbproj.ResolveComReference.cache
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.exe
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.xml
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.pdb
+D:\Documents\Alpha_view_1.955_test_11\bin\Release\photo_view.exe.manifest
+D:\Documents\Alpha_view_1.955_test_11\bin\Release\photo_view.application
+D:\Documents\Alpha_view_1.955_test_11\bin\Release\photo_view.exe
+D:\Documents\Alpha_view_1.955_test_11\bin\Release\photo_view.pdb
+D:\Documents\Alpha_view_1.955_test_11\bin\Release\photo_view.xml
+D:\Documents\Alpha_view_1.955_test_11\bin\Release\ViewHelpers.dll
+D:\Documents\Alpha_view_1.955_test_11\bin\Release\ViewHelpers.pdb
+D:\Documents\Alpha_view_1.955_test_11\bin\Release\Interop.WMPLib.dll
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.vbprojResolveAssemblyReference.cache
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.frmMenu.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.frmMMMenu.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.frmMusicPlayer.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.frmTempArea.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucCheckBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucDirsBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.frmMain.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.frmShowPhoto2.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.Resources.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucFilesBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucFilesFilter.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucImagedButton.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucImagesBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucMusicBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucPathLine.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucScrollBar.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.ucSkinButton.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.exe.manifest
+D:\Documents\Alpha_view_1.955_test_11\obj\Release\photo_view.application
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.vbprojResolveAssemblyReference.cache
+D:\AlphaView\Alpha_view_1.956\obj\Release\Interop.WMPLib.dll
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.vbproj.ResolveComReference.cache
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.frmLyrics.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.frmMenu.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.frmMMMenu.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.frmMusicPlayer.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.frmSelect.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.frmTempArea.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucCheckBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucDirsBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.frmMain.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.frmShowPhoto2.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.Resources.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucFilesBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucFilesFilter.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucImagedButton.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucImagesBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucMusicBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucPathLine.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucScrollBar.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucSkinButton.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.ucSwitcher.resources
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.vbproj.GenerateResource.Cache
+D:\AlphaView\Alpha_view_1.956\bin\Release\photo_view.exe.config
+D:\AlphaView\Alpha_view_1.956\bin\Release\photo_view.exe
+D:\AlphaView\Alpha_view_1.956\bin\Release\photo_view.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Release\photo_view.xml
+D:\AlphaView\Alpha_view_1.956\bin\Release\TestHelpers.dll
+D:\AlphaView\Alpha_view_1.956\bin\Release\ViewHelpers.dll
+D:\AlphaView\Alpha_view_1.956\bin\Release\UserControls.dll
+D:\AlphaView\Alpha_view_1.956\bin\Release\taglib-sharp.dll
+D:\AlphaView\Alpha_view_1.956\bin\Release\GoogleSpeechLib.dll
+D:\AlphaView\Alpha_view_1.956\bin\Release\CUETools.Codecs.dll
+D:\AlphaView\Alpha_view_1.956\bin\Release\CUETools.Codecs.FLAKE.dll
+D:\AlphaView\Alpha_view_1.956\bin\Release\TestHelpers.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Release\ViewHelpers.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Release\UserControls.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Release\UserControls.xml
+D:\AlphaView\Alpha_view_1.956\bin\Release\GoogleSpeechLib.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Release\CUETools.Codecs.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Release\CUETools.Codecs.FLAKE.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Release\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+D:\AlphaView\Alpha_view_1.956\bin\Release\Interop.WMPLib.dll
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.exe
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.xml
+D:\AlphaView\Alpha_view_1.956\obj\Release\photo_view.pdb

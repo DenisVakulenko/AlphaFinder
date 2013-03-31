@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="photo_view">
+</Property><Property Name="Solution File" Value="D:\Documents\Alpha_view_1.955_test_11\Backup\photo_view.sln">
+</Property><Property Name="User Options File" Value="D:\Documents\Alpha_view_1.955_test_11\Backup\photo_view.v11.suo">
+</Property><Property Name="Date" Value="21 августа 2012 г.">
+</Property><Property Name="Time" Value="23:37">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="photo_view.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="photo_view.sln" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\photo_view.sln">
+</Event><Event ErrorLevel="0" Project="" Source="photo_view.v11.suo" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\photo_view.v11.suo">
+</Event><Event ErrorLevel="3" Project="photo_view" Source="photo_view.vbproj" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="photo_view.vbproj" Description="Project file successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\photo_view.vbproj">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="photo_view.vbproj.user" Description="Project user file successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\photo_view.vbproj.user">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="classDirTags.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\classDirTags.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="classFileTags.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\classFileTags.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="frmTempArea.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\frmTempArea.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="frmTempArea.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\frmTempArea.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucCheckBox.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucCheckBox.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucCheckBox.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucCheckBox.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucDirsBox.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucDirsBox.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucDirsBox.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucDirsBox.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="file_func.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\file_func.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="Form1.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="Form1.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="frmShowPhoto2.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\frmShowPhoto2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="frmShowPhoto2.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\frmShowPhoto2.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="mod_buttons.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\mod_buttons.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="mod_graphics.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\mod_graphics.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucFilesBox.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucFilesBox.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucFilesBox.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucFilesBox.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucFilesFilter.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucFilesFilter.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucFilesFilter.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucFilesFilter.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucImagesBox.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucImagesBox.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucImagesBox.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucImagesBox.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucPathLine.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucPathLine.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucPathLine.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucPathLine.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="thumbs.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\thumbs.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="rotating.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\rotating.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucImagedButton.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucImagedButton.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucImagedButton.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucImagedButton.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucScrollBar.Designer.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucScrollBar.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucScrollBar.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucScrollBar.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="vars.vb" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\vars.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\app.manifest" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="frmTempArea.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\frmTempArea.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucCheckBox.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucCheckBox.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucDirsBox.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucDirsBox.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="Form1.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="frmShowPhoto2.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\frmShowPhoto2.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucFilesBox.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucFilesBox.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucFilesFilter.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucFilesFilter.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucImagedButton.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucImagedButton.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucImagesBox.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucImagesBox.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucPathLine.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucPathLine.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="ucScrollBar.resx" Description="File successfully backed up as D:\Documents\Alpha_view_1.955_test_11\Backup\Backup\ucScrollBar.resx">
+</Event><Event ErrorLevel="1" Project="photo_view" Source="photo_view.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="photo_view.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="photo_view" Source="photo_view.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="photo_view.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="photo_view.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="photo_view.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

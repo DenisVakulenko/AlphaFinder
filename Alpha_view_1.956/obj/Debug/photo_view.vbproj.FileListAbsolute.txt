@@ -1,0 +1,642 @@
+K:\[ progs ]\_net\photo_view_1.2\bin\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.2\bin\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.2\bin\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.2\obj\Debug\ResolveAssemblyReference.cache
+K:\[ progs ]\_net\photo_view_1.2\obj\Debug\photo_view.frmMain.resources
+K:\[ progs ]\_net\photo_view_1.2\obj\Debug\photo_view.Resources.resources
+K:\[ progs ]\_net\photo_view_1.2\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+K:\[ progs ]\_net\photo_view_1.2\obj\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.2\obj\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.2\obj\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.3\obj\Debug\ResolveAssemblyReference.cache
+K:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.frmMain.resources
+K:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.Resources.resources
+K:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+K:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.pdb
+E:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.exe
+E:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.pdb
+E:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.xml
+E:\[ progs ]\_net\photo_view_1.3\obj\Debug\ResolveAssemblyReference.cache
+E:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.frmMain.resources
+E:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.Resources.resources
+E:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+E:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.exe
+E:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.xml
+E:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.pdb
+H:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.exe
+H:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.xml
+H:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.pdb
+H:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.exe
+H:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.pdb
+H:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.xml
+H:\[ progs ]\_net\photo_view_1.3\obj\Debug\ResolveAssemblyReference.cache
+H:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.Component1.resources
+H:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.frmMain.resources
+H:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.Resources.resources
+H:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.3\bin\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.3\obj\Debug\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.3\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.4\bin\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.4\bin\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.4\bin\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.4\obj\Debug\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+K:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.4\bin\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.4\bin\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.4\bin\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.4\obj\Debug\ResolveAssemblyReference.cache
+K:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.frmMain.resources
+K:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.Resources.resources
+K:\[ progs ]\_net\photo_view_1.4\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.5\bin\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.5\bin\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.5\bin\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.5\obj\Debug\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.5\bin\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.5\bin\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.5\bin\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.5\obj\Debug\ResolveAssemblyReference.cache
+K:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.frmMain.resources
+K:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.Resources.resources
+K:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+K:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.5\obj\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.6\obj\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.6\obj\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.6\obj\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.6\obj\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.6\obj\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.6\obj\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.66\obj\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.66\obj\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.66\obj\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.666\obj\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.666\obj\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.666\obj\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.666\bin\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.666\bin\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.666\bin\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.666\obj\Debug\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.666\obj\Debug\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.666\obj\Debug\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.666\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.666\obj\Debug\photo_view.frmShowPhoto.resources
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.exe
+J:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.pdb
+J:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.xml
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\ResolveAssemblyReference.cache
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmMain.resources
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmShowPhoto.resources
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.Resources.resources
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+J:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.ButtonP.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.exe
+K:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.pdb
+K:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.xml
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\ResolveAssemblyReference.cache
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmMain.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmShowPhoto.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.Resources.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.ButtonP.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.exe
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.xml
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.pdb
+E:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.exe
+E:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.pdb
+E:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.xml
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\ResolveAssemblyReference.cache
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmMain.resources
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmShowPhoto.resources
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.Resources.resources
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.ButtonP.resources
+E:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmShowPhoto2.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.DirsBox.resources
+K:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.PathLine.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.exe
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.xml
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.pdb
+F:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.exe
+F:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.pdb
+F:\[ progs ]\_net\photo_view_1.6666\bin\Debug\photo_view.xml
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\ResolveAssemblyReference.cache
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.ucDirsBox.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmMain.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmShowPhoto2.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.Resources.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.ucPathLine.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.frmShowPhoto.resources
+F:\[ progs ]\_net\photo_view_1.6666\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.7\obj\Debug\photo_view.exe
+D:\Alpha_view_1.7\obj\Debug\photo_view.xml
+D:\Alpha_view_1.7\obj\Debug\photo_view.pdb
+D:\Alpha_view_1.7\bin\Debug\photo_view.exe
+D:\Alpha_view_1.7\bin\Debug\photo_view.pdb
+D:\Alpha_view_1.7\bin\Debug\photo_view.xml
+D:\Alpha_view_1.7\obj\Debug\ResolveAssemblyReference.cache
+D:\Alpha_view_1.7\obj\Debug\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.7\obj\Debug\photo_view.frmMain.resources
+D:\Alpha_view_1.7\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.7\obj\Debug\photo_view.Resources.resources
+D:\Alpha_view_1.7\obj\Debug\photo_view.ucPathLine.resources
+D:\Alpha_view_1.7\obj\Debug\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.7\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.7\obj\Debug\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.exe
+D:\Alpha_view_1.8\obj\Debug\photo_view.xml
+D:\Alpha_view_1.8\obj\Debug\photo_view.pdb
+D:\Alpha_view_1.8\bin\Debug\photo_view.exe
+D:\Alpha_view_1.8\bin\Debug\photo_view.pdb
+D:\Alpha_view_1.8\bin\Debug\photo_view.xml
+D:\Alpha_view_1.8\obj\Debug\ResolveAssemblyReference.cache
+D:\Alpha_view_1.8\obj\Debug\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.frmMain.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.Resources.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.ucPathLine.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.8\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.9\obj\Debug\photo_view.exe
+D:\Alpha_view_1.9\obj\Debug\photo_view.xml
+D:\Alpha_view_1.9\obj\Debug\photo_view.pdb
+D:\Alpha_view_1.9\bin\Debug\photo_view.exe
+D:\Alpha_view_1.9\bin\Debug\photo_view.pdb
+D:\Alpha_view_1.9\bin\Debug\photo_view.xml
+D:\Alpha_view_1.9\obj\Debug\ResolveAssemblyReference.cache
+D:\Alpha_view_1.9\obj\Debug\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.9\obj\Debug\photo_view.frmMain.resources
+D:\Alpha_view_1.9\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.9\obj\Debug\photo_view.Resources.resources
+D:\Alpha_view_1.9\obj\Debug\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.9\obj\Debug\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.9\obj\Debug\photo_view.ucPathLine.resources
+D:\Alpha_view_1.9\obj\Debug\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.9\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.9\bin\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.9\bin\Debug\photo_view.application
+D:\Alpha_view_1.9\obj\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.9\obj\Debug\photo_view.application
+D:\Alpha_view_1.9\obj\Debug\photo_view.frmTempArea.resources
+D:\Alpha_view_1.91\obj\Debug\ResolveAssemblyReference.cache
+D:\Alpha_view_1.91\obj\Debug\photo_view.frmTempArea.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.frmMain.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.Resources.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.ucPathLine.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.91\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.91\obj\Debug\photo_view.exe
+D:\Alpha_view_1.91\obj\Debug\photo_view.xml
+D:\Alpha_view_1.91\obj\Debug\photo_view.pdb
+D:\Alpha_view_1.91\bin\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.91\bin\Debug\photo_view.application
+D:\Alpha_view_1.91\bin\Debug\photo_view.exe
+D:\Alpha_view_1.91\bin\Debug\photo_view.pdb
+D:\Alpha_view_1.91\bin\Debug\photo_view.xml
+D:\Alpha_view_1.91\obj\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.91\obj\Debug\photo_view.application
+D:\Alpha_view_1.915\obj\Debug\photo_view.exe
+D:\Alpha_view_1.915\obj\Debug\photo_view.xml
+D:\Alpha_view_1.915\obj\Debug\photo_view.pdb
+D:\Alpha_view_1.915\bin\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.915\bin\Debug\photo_view.application
+D:\Alpha_view_1.915\bin\Debug\photo_view.exe
+D:\Alpha_view_1.915\bin\Debug\photo_view.pdb
+D:\Alpha_view_1.915\bin\Debug\photo_view.xml
+D:\Alpha_view_1.915\obj\Debug\ResolveAssemblyReference.cache
+D:\Alpha_view_1.915\obj\Debug\photo_view.frmTempArea.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.frmMain.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.Resources.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.ucPathLine.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.frmShowPhoto.resources
+D:\Alpha_view_1.915\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.915\obj\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.915\obj\Debug\photo_view.application
+D:\Alpha_view_1.925\obj\Debug\photo_view.exe
+D:\Alpha_view_1.925\obj\Debug\photo_view.xml
+D:\Alpha_view_1.925\obj\Debug\photo_view.pdb
+D:\Alpha_view_1.925\bin\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.925\bin\Debug\photo_view.application
+D:\Alpha_view_1.925\bin\Debug\photo_view.exe
+D:\Alpha_view_1.925\bin\Debug\photo_view.pdb
+D:\Alpha_view_1.925\bin\Debug\photo_view.xml
+D:\Alpha_view_1.925\obj\Debug\ResolveAssemblyReference.cache
+D:\Alpha_view_1.925\obj\Debug\photo_view.frmTempArea.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.frmMain.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.Resources.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.ucFilesBox.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.ucPathLine.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.925\obj\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.925\obj\Debug\photo_view.application
+D:\Alpha_view_1.925\obj\Debug\photo_view.ucFilesFilter.resources
+D:\Alpha_view_1.925\obj\Debug\photo_view.ucScrollBar.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.exe
+D:\Alpha_view_1.935\obj\Debug\photo_view.xml
+D:\Alpha_view_1.935\obj\Debug\photo_view.pdb
+D:\Alpha_view_1.935\bin\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.935\bin\Debug\photo_view.application
+D:\Alpha_view_1.935\bin\Debug\photo_view.exe
+D:\Alpha_view_1.935\bin\Debug\photo_view.pdb
+D:\Alpha_view_1.935\bin\Debug\photo_view.xml
+D:\Alpha_view_1.935\obj\Debug\ResolveAssemblyReference.cache
+D:\Alpha_view_1.935\obj\Debug\photo_view.frmTempArea.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.ucDirsBox.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.frmMain.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.Resources.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.ucFilesBox.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.ucFilesFilter.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.ucImagedButton.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.ucImagesBox.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.ucPathLine.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.ucScrollBar.resources
+D:\Alpha_view_1.935\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Alpha_view_1.935\obj\Debug\photo_view.exe.manifest
+D:\Alpha_view_1.935\obj\Debug\photo_view.application
+D:\Alpha_view_1.935\obj\Debug\photo_view.ucCheckBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.exe
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.xml
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.pdb
+D:\_Programms\Alpha_view_1.935\bin\Debug\photo_view.exe.manifest
+D:\_Programms\Alpha_view_1.935\bin\Debug\photo_view.application
+D:\_Programms\Alpha_view_1.935\bin\Debug\photo_view.exe
+D:\_Programms\Alpha_view_1.935\obj\Debug\ResolveAssemblyReference.cache
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.frmTempArea.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.ucCheckBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.ucDirsBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.frmMain.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.Resources.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.ucFilesBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.ucFilesFilter.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.ucImagedButton.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.ucImagesBox.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.ucPathLine.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.ucScrollBar.resources
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.exe.manifest
+D:\_Programms\Alpha_view_1.935\obj\Debug\photo_view.application
+D:\_Programms\Alpha_view_1.935\bin\Debug\photo_view.pdb
+D:\_Programms\Alpha_view_1.935\bin\Debug\photo_view.xml
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.exe
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.xml
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.pdb
+D:\_Programms\Alpha_view_1.945\bin\Debug\photo_view.exe.manifest
+D:\_Programms\Alpha_view_1.945\bin\Debug\photo_view.application
+D:\_Programms\Alpha_view_1.945\bin\Debug\photo_view.exe
+D:\_Programms\Alpha_view_1.945\bin\Debug\photo_view.pdb
+D:\_Programms\Alpha_view_1.945\bin\Debug\photo_view.xml
+D:\_Programms\Alpha_view_1.945\obj\Debug\ResolveAssemblyReference.cache
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.frmTempArea.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.ucCheckBox.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.ucDirsBox.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.frmMain.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.Resources.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.ucFilesBox.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.ucFilesFilter.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.ucImagedButton.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.ucImagesBox.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.ucPathLine.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.ucScrollBar.resources
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.exe.manifest
+D:\_Programms\Alpha_view_1.945\obj\Debug\photo_view.application
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.exe
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.xml
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.pdb
+C:\Documents\Alpha_view_1.945\bin\Debug\photo_view.exe.manifest
+C:\Documents\Alpha_view_1.945\bin\Debug\photo_view.application
+C:\Documents\Alpha_view_1.945\bin\Debug\photo_view.exe
+C:\Documents\Alpha_view_1.945\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.frmTempArea.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucCheckBox.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucDirsBox.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.frmMain.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.frmShowPhoto2.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.Resources.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucFilesBox.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucFilesFilter.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucImagedButton.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucImagesBox.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucPathLine.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucScrollBar.resources
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.exe.manifest
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.application
+C:\Documents\Alpha_view_1.945\bin\Debug\photo_view.pdb
+C:\Documents\Alpha_view_1.945\bin\Debug\photo_view.xml
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.exe
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.xml
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.pdb
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.frmTempArea.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucCheckBox.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucDirsBox.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.frmMain.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.Resources.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucFilesBox.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucFilesFilter.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucImagedButton.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucImagesBox.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucPathLine.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucScrollBar.resources
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Documents\Alpha_view_1.945\bin\Debug\photo_view.exe.manifest
+D:\Documents\Alpha_view_1.945\bin\Debug\photo_view.application
+D:\Documents\Alpha_view_1.945\bin\Debug\photo_view.exe
+D:\Documents\Alpha_view_1.945\bin\Debug\photo_view.pdb
+D:\Documents\Alpha_view_1.945\bin\Debug\photo_view.xml
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.exe.manifest
+D:\Documents\Alpha_view_1.945\obj\Debug\photo_view.application
+C:\Documents\Alpha_view_1.945\obj\Debug\photo_view.ucSkinButton.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.exe
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.xml
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.pdb
+C:\Documents\Alpha_view_1.955\bin\Debug\photo_view.exe.manifest
+C:\Documents\Alpha_view_1.955\bin\Debug\photo_view.application
+C:\Documents\Alpha_view_1.955\bin\Debug\photo_view.exe
+C:\Documents\Alpha_view_1.955\bin\Debug\photo_view.pdb
+C:\Documents\Alpha_view_1.955\bin\Debug\photo_view.xml
+C:\Documents\Alpha_view_1.955\bin\Debug\ViewHelpers.dll
+C:\Documents\Alpha_view_1.955\bin\Debug\ViewHelpers.pdb
+C:\Documents\Alpha_view_1.955\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.frmTempArea.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucCheckBox.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucDirsBox.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.frmMain.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.frmShowPhoto2.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.Resources.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucFilesBox.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucFilesFilter.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucImagedButton.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucImagesBox.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucPathLine.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucScrollBar.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucSkinButton.resources
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.exe.manifest
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.application
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.frmMusicPlayer.resources
+C:\Documents\Alpha_view_1.955\bin\Debug\Interop.WMPLib.dll
+C:\Documents\Alpha_view_1.955\obj\Debug\Interop.WMPLib.dll
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.vbproj.ResolveComReference.cache
+C:\Documents\Alpha_view_1.955\obj\Debug\photo_view.ucMusicBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.vbprojResolveAssemblyReference.cache
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.vbproj.ResolveComReference.cache
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.frmLyrics.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.frmMenu.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.frmMMMenu.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.frmMusicPlayer.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.frmSelect.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.frmTempArea.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucCheckBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucDirsBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.frmMain.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.Resources.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucFilesBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucFilesFilter.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucImagedButton.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucImagesBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucMusicBox.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucPathLine.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucScrollBar.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucSkinButton.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.ucSwitcher.resources
+D:\Documents\Alpha_view_1.955_test_11\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\photo_view.exe
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\photo_view.exe.config
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\TestHelpers.dll
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\ViewHelpers.dll
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\taglib-sharp.dll
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\TestHelpers.pdb
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\ViewHelpers.pdb
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.vbprojResolveAssemblyReference.cache
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.vbproj.ResolveComReference.cache
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.frmLyrics.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.frmMenu.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.frmMMMenu.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.frmMusicPlayer.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.frmSelect.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.frmTempArea.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucCheckBox.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucDirsBox.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.frmMain.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.Resources.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucFilesBox.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucFilesFilter.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucImagedButton.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucImagesBox.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucMusicBox.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucPathLine.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucScrollBar.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucSkinButton.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.ucSwitcher.resources
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.exe
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.xml
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\obj\Debug\photo_view.pdb
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\photo_view.pdb
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\photo_view.xml
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\GoogleSpeechLib.dll
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\CUETools.Codecs.dll
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\CUETools.Codecs.FLAKE.dll
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\GoogleSpeechLib.pdb
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\CUETools.Codecs.pdb
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\CUETools.Codecs.FLAKE.pdb
+D:\Documents\Alpha_view\last\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+D:\Documents\Alpha_view_1.956\bin\Debug\photo_view.exe.config
+D:\Documents\Alpha_view_1.956\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Alpha_view_1.956\obj\Debug\photo_view.vbproj.ResolveComReference.cache
+D:\Documents\Alpha_view_1.956\obj\Debug\photo_view.exe
+D:\Documents\Alpha_view_1.956\obj\Debug\photo_view.xml
+D:\Documents\Alpha_view_1.956\obj\Debug\photo_view.pdb
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\photo_view.exe.config
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.vbproj.ResolveComReference.cache
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.exe
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.xml
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.pdb
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\photo_view.exe
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\photo_view.pdb
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\photo_view.xml
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\TestHelpers.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\ViewHelpers.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\taglib-sharp.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\GoogleSpeechLib.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\CUETools.Codecs.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\CUETools.Codecs.FLAKE.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\TestHelpers.pdb
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\ViewHelpers.pdb
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\GoogleSpeechLib.pdb
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\CUETools.Codecs.pdb
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\CUETools.Codecs.FLAKE.pdb
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.vbprojResolveAssemblyReference.cache
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.frmLyrics.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.frmMenu.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.frmMMMenu.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.frmMusicPlayer.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.frmSelect.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.frmTempArea.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucCheckBox.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucDirsBox.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.frmMain.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.Resources.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucFilesBox.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucFilesFilter.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucImagedButton.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucImagesBox.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucMusicBox.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucPathLine.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucScrollBar.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucSkinButton.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.ucSwitcher.resources
+D:\Documents\Alpha_view\Alpha_view_1.956\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\AlphaView\Alpha_view_1.956\bin\Debug\photo_view.exe.config
+D:\AlphaView\Alpha_view_1.956\obj\Debug\Interop.WMPLib.dll
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.vbproj.ResolveComReference.cache
+D:\AlphaView\Alpha_view_1.956\bin\Debug\photo_view.exe
+D:\AlphaView\Alpha_view_1.956\bin\Debug\photo_view.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Debug\photo_view.xml
+D:\AlphaView\Alpha_view_1.956\bin\Debug\TestHelpers.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\ViewHelpers.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\taglib-sharp.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\GoogleSpeechLib.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\CUETools.Codecs.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\CUETools.Codecs.FLAKE.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\TestHelpers.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Debug\ViewHelpers.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Debug\GoogleSpeechLib.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Debug\CUETools.Codecs.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Debug\CUETools.Codecs.FLAKE.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\Interop.WMPLib.dll
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.vbprojResolveAssemblyReference.cache
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmLyrics.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmMenu.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmMMMenu.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmMusicPlayer.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmSelect.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmTempArea.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucCheckBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucDirsBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmMain.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmShowPhoto2.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.Resources.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucFilesBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucFilesFilter.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucImagedButton.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucImagesBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucMusicBox.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucPathLine.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucScrollBar.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucSkinButton.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucSwitcher.resources
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.exe
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.xml
+D:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.pdb
+E:\AlphaView\Alpha_view_1.956\bin\Debug\photo_view.exe
+E:\AlphaView\Alpha_view_1.956\bin\Debug\TestHelpers.dll
+E:\AlphaView\Alpha_view_1.956\bin\Debug\ViewHelpers.dll
+E:\AlphaView\Alpha_view_1.956\bin\Debug\GoogleSpeechLib.dll
+E:\AlphaView\Alpha_view_1.956\bin\Debug\CUETools.Codecs.dll
+E:\AlphaView\Alpha_view_1.956\bin\Debug\CUETools.Codecs.FLAKE.dll
+E:\AlphaView\Alpha_view_1.956\bin\Debug\photo_view.exe.config
+E:\AlphaView\Alpha_view_1.956\obj\Debug\Interop.WMPLib.dll
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.vbproj.ResolveComReference.cache
+E:\AlphaView\Alpha_view_1.956\bin\Debug\taglib-sharp.dll
+E:\AlphaView\Alpha_view_1.956\bin\Debug\TestHelpers.pdb
+E:\AlphaView\Alpha_view_1.956\bin\Debug\ViewHelpers.pdb
+E:\AlphaView\Alpha_view_1.956\bin\Debug\GoogleSpeechLib.pdb
+E:\AlphaView\Alpha_view_1.956\bin\Debug\CUETools.Codecs.pdb
+E:\AlphaView\Alpha_view_1.956\bin\Debug\CUETools.Codecs.FLAKE.pdb
+E:\AlphaView\Alpha_view_1.956\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.vbprojResolveAssemblyReference.cache
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmLyrics.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmMenu.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmMMMenu.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmMusicPlayer.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmSelect.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmTempArea.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucCheckBox.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucDirsBox.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmMain.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.frmShowPhoto2.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.Resources.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucFilesBox.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucFilesFilter.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucImagedButton.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucImagesBox.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucMusicBox.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucPathLine.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucScrollBar.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucSkinButton.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.ucSwitcher.resources
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.vbproj.GenerateResource.Cache
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.exe
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.xml
+E:\AlphaView\Alpha_view_1.956\obj\Debug\photo_view.pdb
+E:\AlphaView\Alpha_view_1.956\bin\Debug\photo_view.pdb
+E:\AlphaView\Alpha_view_1.956\bin\Debug\photo_view.xml
+E:\AlphaView\Alpha_view_1.956\bin\Debug\Interop.WMPLib.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\UserControls.dll
+D:\AlphaView\Alpha_view_1.956\bin\Debug\UserControls.pdb
+D:\AlphaView\Alpha_view_1.956\bin\Debug\UserControls.xml

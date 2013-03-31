@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{995D5198-E7F0-4FEF-9885-BCC4B1F63867}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestHelpers</RootNamespace>
+    <AssemblyName>TestHelpers</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="NAudio">
+      <HintPath>..\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.WindowsMediaFormat">
+      <HintPath>..\Alpha_view_1.955_test_11 - Copy - not working\bin\Debug\NAudio.WindowsMediaFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="policy.2.0.taglib-sharp">
+      <HintPath>..\ViewHelpers\Libraries\policy.2.0.taglib-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="taglib-sharp">
+      <HintPath>..\ViewHelpers\Libraries\taglib-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AudioMixerHelper.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="clsAsyncFileSystem.cs" />
+    <Compile Include="frmMusicPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusicPlayer.Designer.cs">
+      <DependentUpon>frmMusicPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShutDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShutDown.Designer.cs">
+      <DependentUpon>frmShutDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="clsFilesInfo.cs" />
+    <Compile Include="clsRecentItems.cs" />
+    <Compile Include="clsWaitingIndicator.cs" />
+    <Compile Include="frmLyrics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLyrics.Designer.cs">
+      <DependentUpon>frmLyrics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucButton.Designer.cs">
+      <DependentUpon>ucButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucOnAirRecognizer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucOnAirRecognizer.Designer.cs">
+      <DependentUpon>ucOnAirRecognizer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucSpotButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSpotButton.Designer.cs">
+      <DependentUpon>ucSpotButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucVoiceRecognizer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVoiceRecognizer.Designer.cs">
+      <DependentUpon>ucVoiceRecognizer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucWaitingIndicator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucWaitingIndicator.Designer.cs">
+      <DependentUpon>ucWaitingIndicator.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmMusicPlayer.resx">
+      <DependentUpon>frmMusicPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShutDown.resx">
+      <DependentUpon>frmShutDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLyrics.resx">
+      <DependentUpon>frmLyrics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucButton.resx">
+      <DependentUpon>ucButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucOnAirRecognizer.resx">
+      <DependentUpon>ucOnAirRecognizer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSpotButton.resx">
+      <DependentUpon>ucSpotButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucVoiceRecognizer.resx">
+      <DependentUpon>ucVoiceRecognizer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucWaitingIndicator.resx">
+      <DependentUpon>ucWaitingIndicator.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\cuetoolsnet\CUETools.Codecs.FLAKE\CUETools.Codecs.FLAKE.csproj">
+      <Project>{082d6b9e-326e-4d15-9798-edae9ede70a6}</Project>
+      <Name>CUETools.Codecs.FLAKE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cuetoolsnet\CUETools.Codecs\CUETools.Codecs.csproj">
+      <Project>{6458a13a-30ef-45a9-9d58-e5031b17bee2}</Project>
+      <Name>CUETools.Codecs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cuetoolsnet\CUETools.Flake\CUETools.Flake.csproj">
+      <Project>{2379baaf-a406-4477-bf53-2d6a326c24c8}</Project>
+      <Name>CUETools.Flake</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GoogleSpeechLib\GoogleSpeechLib.csproj">
+      <Project>{8344af78-46b6-4bed-aff9-e573e257ab01}</Project>
+      <Name>GoogleSpeechLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserControls\UserControls.vbproj">
+      <Project>{0245793d-7a9d-48e6-933e-92a5cdab3395}</Project>
+      <Name>UserControls</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

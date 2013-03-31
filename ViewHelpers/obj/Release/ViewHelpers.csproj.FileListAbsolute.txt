@@ -1,0 +1,17 @@
+C:\Documents\ViewHelpers\obj\Release\ResolveAssemblyReference.cache
+C:\Documents\ViewHelpers\bin\Release\ViewHelpers.dll
+C:\Documents\ViewHelpers\bin\Release\ViewHelpers.pdb
+C:\Documents\ViewHelpers\obj\Release\ViewHelpers.dll
+C:\Documents\ViewHelpers\obj\Release\ViewHelpers.pdb
+D:\Documents\ViewHelpers\bin\Release\ViewHelpers.dll
+D:\Documents\ViewHelpers\bin\Release\ViewHelpers.pdb
+D:\Documents\ViewHelpers\obj\Release\ViewHelpers.csprojResolveAssemblyReference.cache
+D:\Documents\ViewHelpers\obj\Release\ViewHelpers.dll
+D:\Documents\ViewHelpers\obj\Release\ViewHelpers.pdb
+D:\AlphaView\ViewHelpers\bin\Release\ViewHelpers.dll
+D:\AlphaView\ViewHelpers\bin\Release\ViewHelpers.pdb
+D:\AlphaView\ViewHelpers\bin\Release\policy.2.0.taglib-sharp.dll
+D:\AlphaView\ViewHelpers\bin\Release\policy.2.0.taglib-sharp.config
+D:\AlphaView\ViewHelpers\obj\Release\ViewHelpers.csprojResolveAssemblyReference.cache
+D:\AlphaView\ViewHelpers\obj\Release\ViewHelpers.dll
+D:\AlphaView\ViewHelpers\obj\Release\ViewHelpers.pdb

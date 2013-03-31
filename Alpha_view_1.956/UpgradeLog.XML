@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="photo_view">
+</Property><Property Name="Файл решения" Value="K:\[ progs ]\_net\photo_view_1.2\photo_view.sln">
+</Property><Property Name="Файл параметров пользователя" Value="K:\[ progs ]\_net\photo_view_1.2\photo_view.suo">
+</Property><Property Name="Date" Value="12 мая 2011 г.">
+</Property><Property Name="Time" Value="20:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="photo_view.sln" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\photo_view.sln">
+</Event><Event ErrorLevel="0" Project="" Source="photo_view.suo" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\photo_view.suo">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="photo_view.vbproj" Description="Успешно создана резервная копия файла проекта: K:\[ progs ]\_net\photo_view_1.2\Backup\photo_view.vbproj">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="photo_view.vbproj.user" Description="Резервная копия проекта успешно создана как K:\[ progs ]\_net\photo_view_1.2\Backup\photo_view.vbproj.user">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="file_func.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\file_func.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="Form1.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="Form1.Designer.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="thumbs.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\thumbs.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="rotating.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\rotating.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\AssemblyInfo.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Application.Designer.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Resources.Designer.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Settings.Designer.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="vars.vb" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\vars.vb">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Application.myapp" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Settings.settings" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="3.png" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\3.png">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="mnu.png" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\mnu.png">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="Form1.resx" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="My Project\Resources.resx" Description="Успешно создана резервная копия файла K:\[ progs ]\_net\photo_view_1.2\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="photo_view.vbproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="photo_view" Source="photo_view.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="photo_view.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="photo_view.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="photo_view" Source="photo_view.vbproj" Description="Сканирование завершено: обновление файлов проекта не требуется.">
+</Event></UpgradeLog>
