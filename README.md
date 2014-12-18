@@ -1,4 +1,4 @@
 AlphaFinder
 ===========
 
-Explorer for music, photoes, etc.
+Explorer for filse, music, photographs, etc.
